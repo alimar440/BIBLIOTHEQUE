@@ -29,6 +29,6 @@ Ce projet a été réalisé par ALI  MAR NGOM dans le cadre d'un projet personne
 
 ## Licence
 
-Ce projet est distribué sous la licence 2 MPI. Vous pouvez consulter le fichier [LICENSE](LICENSE) pour plus de détails sur les conditions de distribution.
+Ce projet est distribué sous la licence 2 MPI.
 
 N'hésitez pas à personnaliser ce README en ajoutant ou en modifiant des sections selon les besoins de votre projet. Vous pouvez également inclure des informations supplémentaires telles que des instructions d'installation, des exemples d'utilisation, des captures d'écran, etc.
